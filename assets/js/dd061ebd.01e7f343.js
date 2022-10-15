@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfocusp_blog=self.webpackChunkinfocusp_blog||[]).push([[4459],{613:s=>{s.exports=JSON.parse('{"label":"computer-vision","permalink":"/blog/tags/computer-vision","allTagsPath":"/blog/tags","count":1}')}}]);

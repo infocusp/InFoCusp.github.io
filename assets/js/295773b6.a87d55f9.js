@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfocusp_blog=self.webpackChunkinfocusp_blog||[]).push([[8190],{2482:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/computer-vision","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
